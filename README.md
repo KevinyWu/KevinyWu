@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-#### I'm Kevin, a second-year undergrad at the University of Chicago
+#### I'm Kevin, a second-year undergraduate at the University of Chicago
  
 - 📚 Currently, I'm studying towards my B.S. in Computational and Applied Mathematics
 - 🧬 I'm a Student AI Researcher at [ZeD Lab](https://zed.uchicago.edu/index.html), working on predicting wild mutation patterns in novel pathogens
