@@ -22,6 +22,7 @@
 
 ### Socials:
 
+[<img align="left" alt="website" width="60px" src="icons/website.png" />](https://kevinywu.github.io)
 [<img align="left" alt="LinkedIn" width="60px" src="icons/linkedin.png" />](https://www.linkedin.com/in/kevin-wu-227449179/)
 [<img align="left" alt="Youtube" width="60px" src="icons/youtube.png" />](https://www.youtube.com/c/kevthebuilder)
 [<img align="left" alt="Flickr" width="60px" src="icons/flickr.png" />](https://www.flickr.com/people/kevthebuilder/)
