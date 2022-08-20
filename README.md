@@ -3,7 +3,7 @@
 #### I'm Kevin, a third-year undergraduate at the University of Chicago
  
 - 📚 Currently studying towards a B.S. in Computational and Applied Math and B.A. in Economics spec. Data Science
-- 🧬 I'm a Student AI Researcher at [ZeD Lab](https://zed.uchicago.edu/index.html), working on predicting wild mutation patterns in novel pathogens
+- 🧬 I'm a Student AI Researcher at [ZeD Lab](https://zed.uchicago.edu/index.html), working on [EmergeNet](https://github.com/zeroknowledgediscovery/emergenet): predicting emergence in viral strains
 - 🖥 During Summer 2022, I am working as a Software Engineer Intern at MathWorks
 - 🛠 I build LEGO creations in my spare time. Check them out on [YouTube](https://www.youtube.com/c/kevthebuilder), [Flickr](https://www.flickr.com/people/kevthebuilder/), and [Instagram!](https://www.instagram.com/kev.thebuilder/)
 - 😄 I love Brazilian Jiu-Jitsu 🥋, playing guitar 🎸, soccer ⚽️, and basketball 🏀 
