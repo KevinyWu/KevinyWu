@@ -2,7 +2,7 @@
 
 #### I'm Kevin, a third-year undergraduate at the University of Chicago
  
-- 📚 Currently studying towards a B.S. in Computational and Applied Math and B.A. in Economics spec. Data Science
+- 📚 Currently studying towards a B.S. in Mathematics and B.A. in Statistics
 - 🧬 I'm a Student AI Researcher at [ZeD Lab](https://zed.uchicago.edu/index.html), working on [Emergenet](https://github.com/zeroknowledgediscovery/emergenet): predicting emergence in viral strains
 - 🖥 During Summer 2022, I worked as a Software Engineer Intern at MathWorks
 - 🛠 I build LEGO creations in my spare time. Check them out on [YouTube](https://www.youtube.com/c/kevthebuilder), [Flickr](https://www.flickr.com/people/kevthebuilder/), and [Instagram!](https://www.instagram.com/kev.thebuilder/)
