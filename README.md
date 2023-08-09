@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-#### I'm Kevin, a third-year undergraduate at the University of Chicago
+#### I'm Kevin, a fourth-year BS/MS student at the University of Chicago
  
 - 📚 Currently studying towards a joint B.S. in Applied Mathematics and M.S. in Computer Science
 - 🔬 I'm a Student AI Researcher at [ZeD Lab](https://zed.uchicago.edu/index.html), working on ...
