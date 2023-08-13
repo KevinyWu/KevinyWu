@@ -9,7 +9,6 @@
 	- [Truthnet](https://github.com/zeroknowledgediscovery/emergenet): Algorithmic lie detector
 - 🖥 During the summers of 2022 and 2023, I worked as a Software Engineer Intern at MathWorks
 - 🛠 I build LEGO creations in my spare time. Check them out on [YouTube](https://www.youtube.com/c/kevthebuilder), [Flickr](https://www.flickr.com/people/kevthebuilder/), and [Instagram!](https://www.instagram.com/kev.thebuilder/)
-- 😄 I love soccer ⚽️, basketball 🏀, playing guitar 🎸, and Brazilian Jiu-Jitsu 🥋 
 
 ### Languages and Tools:
 
