@@ -5,7 +5,6 @@
 - 📚 Currently studying towards a joint B.S. in Applied Mathematics and M.S. in Computer Science
 - 🔬 I'm a Student AI Researcher at [ZeD Lab](https://zed.uchicago.edu/index.html), working on ...
 	- [Emergenet](https://github.com/zeroknowledgediscovery/emergenet): Modeling emergence of viral strains
-	- [NERO](https://github.com/zeroknowledgediscovery/recogai_): Non-parametric Entropy Rate Oracle for recognizing AI generated text
 	- [Truthnet](https://github.com/zeroknowledgediscovery/emergenet): Algorithmic lie detector
 - 🖥 During the summers of 2022 and 2023, I worked as a Software Engineer Intern at MathWorks
 - 🛠 I build LEGO creations in my spare time. Check them out on [YouTube](https://www.youtube.com/c/kevthebuilder), [Flickr](https://www.flickr.com/people/kevthebuilder/), and [Instagram!](https://www.instagram.com/kev.thebuilder/)
