@@ -3,7 +3,8 @@
 **I'm Kevin, a fourth-year BS/MS student at the University of Chicago**
  
 - 📚 Currently studying towards a joint B.S. in Applied Mathematics and M.S. in Computer Science
-- 🔬 I work at [ZeD Lab](https://zed.uchicago.edu/index.html), working on [Emergenet](https://github.com/zeroknowledgediscovery/emergenet): Modeling emergence of viral strains
+- 🤖 I work at [RIPL](https://ttic.edu/ripl/), on cool robot stuff
+- 🔬 I worked at [ZeD Lab](https://zed.uchicago.edu/index.html), on [Emergenet](https://github.com/zeroknowledgediscovery/emergenet): Modeling emergence of viral strains
 - 🖥 During the summers of 2022 and 2023, I interned at MathWorks
 - 🛠 I build LEGO creations in my spare time. Check them out on [YouTube](https://www.youtube.com/c/kevthebuilder), [Flickr](https://www.flickr.com/people/kevthebuilder/), and [Instagram!](https://www.instagram.com/kev.thebuilder/)
 
